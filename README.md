@@ -1,2 +1,2 @@
 # Bachelor-thesis
-Bachelor's thesis done at KTH by Simon Westberg and Tony Rönnqvist
+Bachelor's thesis at KTH by Tony Rönnqvist and Simon Westberg 
